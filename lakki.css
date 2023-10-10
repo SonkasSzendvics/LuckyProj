@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(240, 214, 121);
+}
+nav{
+    background-color: rgb(12, 109, 33);
+    padding: 15px;
+    position: fixed;
+}
+nav a{
+    color: white;
+    margin: 15px;
+}
+nav a:hover{
+    color: white;
+    text-decoration: none;
+}
+nav a:first-child img{
+    width: 40px;
+}
+.banner{
+    background-image: url("Banner.jpg");
+    align-self:center;
+}
