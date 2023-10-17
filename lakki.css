@@ -124,3 +124,18 @@ footer li>img{
     color: #fff;
     padding: 0.5rem;
 }
+.fooldal{
+    background-image: url("kavezo.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+main{
+    background-color: rgba(0,0,0,50%);
+    max-width: 60%;
+    margin: auto;
+    height: 800px;
+    padding: 80px;
+}
+.cim{
+color: #fff;
+}
