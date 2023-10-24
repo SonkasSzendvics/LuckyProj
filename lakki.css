@@ -1,11 +1,18 @@
 /*oldalbeállítások*/
+@font-face {
+    font-family: myFirstFont;
+    src: url(./Inknut_Antiqua/InknutAntiqua-Regular.ttf);
+  }
+
 body:not(#home), .modal-content{
     background-color: #fbefdb;
+    
 }
 
 .modal-header, .modal-footer{
     background-color: rgb(209, 190, 154);
 }
+
 
 #home{
     height: 100vh;
