@@ -1,6 +1,7 @@
 /*oldalbeállítások*/
 body:not(#home), .modal-content{
     background-color: #fbefdb;
+
 }
 
 .modal-header, .modal-footer{
@@ -129,7 +130,7 @@ footer li>img{
     background-repeat: no-repeat;
     background-size: cover;
 }
-main{
+#fo{
     background-color: rgba(0,0,0,50%);
     max-width: 60%;
     margin: auto;
@@ -138,4 +139,15 @@ main{
 }
 .cim{
 color: #fff;
+}
+#kepes{
+    max-height: 400px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 140px;
+}
+#kettes{
+    margin-top: 300px;
+    color:white;
+    text-align: center;
 }
